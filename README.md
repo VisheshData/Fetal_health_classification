@@ -19,4 +19,4 @@ and pathological. Hence we used oversampling techniques like SMOTE. After doing 
 97% recall for Susceptible and 99% recall for Pathological. Overfitting was an issue but we used max depth parameter in order to control in order to get f1 score of test and 
 training prediction quite close to each other.
 
-Please give your upvotes on this code. Comment how we can improve this result. Click the below link.
+Please give your upvotes on this code. Comment how we can improve this result.
